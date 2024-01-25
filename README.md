@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💫 About Me:
-👩🏽 I'm 17 years old.<br>💻 I'm currently working on Bosch Brasil.<br>🎓 I'm currently studying Systems development.<br>📚 I’m currently learning Java and Python.<br>🖥️ Interested in learning more about Web development.<br>🎯 Goals: Be a great programmer and grow professionally.<br>⚡ Fun fact: I like read books.
+👩🏽 I'm 18 years old.<br>💻 I'm currently working on Bosch Brasil.<br>🎓 I'm currently studying Systems development.<br>📚 I’m currently learning Java and Python.<br>🖥️ Interested in learning more about Web development.<br>🎯 Goals: Be a great programmer and grow professionally.<br>⚡ Fun fact: I like read books.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/euleticiacardoso_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com//in/leticia-cardoso-988b28244//) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com//users/22807662/letícia-cardoso1) 
